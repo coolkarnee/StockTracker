@@ -1,0 +1,6 @@
+{
+  "name": "Stock Tracker",
+  "description": "Premium NSE and Nasdaq stock performance tracker dashboard featuring multi-factor filters and local real-time price alerting configurations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

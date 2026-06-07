@@ -1,0 +1,19 @@
+=== SPREADSHEET INSPECTION RESULTS ===
+
+=== NSE DATABASE ===
+
+--- NSE TAB: Industry Analysis ---
+Failed: Response codes: 401 and 401
+Could not load tab: Industry Analysis
+
+--- NSE TAB: Liquid Momentum Leaders ---
+Failed: Response codes: 401 and 401
+Could not load tab: Liquid Momentum Leaders
+
+--- NSE TAB: Momentum Top Names ---
+Failed: Response codes: 401 and 401
+Could not load tab: Momentum Top Names
+
+--- NSE TAB: Doublers ---
+Failed: Response codes: 401 and 401
+Could not load tab: Doublers
